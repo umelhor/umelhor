@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-gomes-0001322ab/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umelhor&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umelhor&langs_count=11)
 
 ### As Tecnologias que estou aprendendo sao
 <div style="display: inline_block">
