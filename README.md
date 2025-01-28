@@ -6,6 +6,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="45" height="45" style="border-radius: 10px;" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="border-radius: 10px;" />
   </a>
