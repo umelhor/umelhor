@@ -36,6 +36,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="45" height="45" />
   </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="msql" width="45" height="45" />
+  </a>
 </p>
 
   
