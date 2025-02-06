@@ -1,7 +1,7 @@
 <img align="right" alt="Gif" width="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/d99a4f3af7783e20-fe/s640x960/008da42b7297fc401fa26d92ed7e5dab1275368a.gifv">
 
 <h1 align="center">Hi 👋, I'm Paulo Ricardo</h1>
-👨‍🎓 student systems information   <br/>
+👨‍🎓 information systems student   <br/>
 👨‍💻 Full-stack Web Developer <br/>
 
 <h3 align="center">Languages and Tools:</h3>
